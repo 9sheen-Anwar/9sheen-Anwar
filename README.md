@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nausheen Anwar</h1>
 <h3 align="center">Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif">
+<!--img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif"-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9sheen-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="9sheen-anwar" /> </p>
+
 
 - 🔭 I’m currently employed at **Pitney Bowes**
 - 🌱 I'm passionate about learning **DevOps tools**
@@ -12,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nausheen-anwar-44770b1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nausheen-anwar-44770b1a3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nausheenanwar39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nausheenanwar39" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
