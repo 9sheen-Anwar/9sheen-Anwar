@@ -1,8 +1,7 @@
-[![MasterHead]([https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif](https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif))]
 <h1 align="center">Hi 👋, I'm Nausheen Anwar</h1>
 <h3 align="center">Software Engineer from India</h3>
 
-<!--img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif"-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9sheen-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="9sheen-anwar" /> </p>
 
 - 🔭 I’m currently employed at **Pitney Bowes**
